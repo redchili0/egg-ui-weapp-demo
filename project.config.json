@@ -28,6 +28,7 @@
 	"simulatorPluginLibVersion": {},
 	"appid": "wx3bb6d5c2513a84ff",
 	"projectname": "egg-ui-weapp-demo",
+	"libVersion": "2.9.2",
 	"condition": {
 		"search": {
 			"current": -1,
